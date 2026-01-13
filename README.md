@@ -75,4 +75,4 @@ sqlite3 -header -column Elyndria.db < 4_Queries.sql
 - **Complex Reporting**: SQL queries utilize `JOIN`, `GROUP BY`, `HAVING`, `SUBQUERIES`, and `VIEWS` to derive meaningful insights.
 - **Scalability**: Normalized database design (3NF) to minimize redundancy.
 
-Elyndria 2023 - This project is developed by Fauzan Rahmat Farghani
+Elyndria 2023 - Developed by Fauzan Rahmat Farghani
