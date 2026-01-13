@@ -1,7 +1,7 @@
 # Elyndria: Database Management Project
 
 ## 📌 Project Overview
-**Elyndria** is a database management project designed for **MiZoyo**, a game development company. The goal of this project is to transition Elyndria's data management from a manual system to a robust **Relational Database Management System (RDBMS)**. This system tracks player activities, specifically focusing on **Gacha** (character summoning) and **Top-up** (currency purchase) transactions.
+**Elyndria** is a database management project. The goal of this project is to transition Elyndria's data management from a manual system to a robust **Relational Database Management System (RDBMS)**. This system tracks player activities, specifically focusing on **Gacha** (character summoning) and **Top-up** (currency purchase) transactions.
 
 ## 🎯 Objectives
 The project involves designing and implementing a database solution that:
