@@ -1,4 +1,4 @@
-# Elyndria Database Project
+# Elyndria: Database Management Project
 
 ## 📌 Project Overview
 **Elyndria** is a database management project designed for **MiZoyo**, a game development company. The goal of this project is to transition Elyndria's data management from a manual system to a robust **Relational Database Management System (RDBMS)**. This system tracks player activities, specifically focusing on **Gacha** (character summoning) and **Top-up** (currency purchase) transactions.
@@ -74,3 +74,5 @@ sqlite3 -header -column Elyndria.db < 4_Queries.sql
 - **Data Integrity**: Implemented rigorous constraints (`GLOB`/`CHECK`) to ensure valid ID formats (`PLXXX`, `SHXXX`, etc.) and data logic.
 - **Complex Reporting**: SQL queries utilize `JOIN`, `GROUP BY`, `HAVING`, `SUBQUERIES`, and `VIEWS` to derive meaningful insights.
 - **Scalability**: Normalized database design (3NF) to minimize redundancy.
+
+Elyndria 2023 - This project is developed by Fauzan Rahmat Farghani
