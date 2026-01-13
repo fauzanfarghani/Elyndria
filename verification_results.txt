@@ -1,0 +1,58 @@
+PlayerName       Characters Owned
+---------------  ----------------
+Kaeya Alberich   3               
+Diluc Ragnvindr  3               
+Venti Bard       1               
+Zhongli Geo      1               
+Xiao Yaksha      1               
+
+PlayerName      Player Number  Total Primogems Bought
+--------------  -------------  ----------------------
+Aether Star     Player001      660                   
+Lumine Moon     Player002      60                    
+Amber Outrider  Player003      600                   
+Kaeya Alberich  Player004      300                   
+Eula Lawrence   Player010      300                   
+Hu Tao          Player016      900                   
+
+PlayerName   Email             Total Characters  Highest Star
+-----------  ----------------  ----------------  ------------
+Aether Star  aether@gmail.com  15 characters     5           
+
+PlayerName       Topup Count  Cheapest Bundle Bought
+---------------  -----------  ----------------------
+Diluc Ragnvindr  2 times      15000                 
+
+PlayerName      Gacha Number  GachaDate 
+--------------  ------------  ----------
+Amber Outrider  Gacha-004     2022-03-15
+
+PlayerName      Phone Number    Email Name
+--------------  --------------  ----------
+Lumine Moon     +6281234567891  lumine    
+Amber Outrider  +6281234567892  amber     
+Klee Spark      +6281234567897  klee      
+Hu Tao          +6281234567805  hutao     
+Lumine Moon     +6281234567891  lumine    
+
+PlayerName  Total Spend
+----------  -----------
+Hu Tao      1824000    
+
+PlayerName      Birth Month
+--------------  -----------
+Aether Star     January    
+Lumine Moon     January    
+Lisa Minci      June       
+Jean Gunnhildr  March      
+Venti Bard      June       
+Raiden Ei       June       
+Xiao Yaksha     April      
+
+PlayerName   GachaCount  Days Since Last Gacha
+-----------  ----------  ---------------------
+Aether Star  3           12                   
+
+ShopName  Total Profit  Total Player Served
+--------  ------------  -------------------
+Natlan    264000        1                  
